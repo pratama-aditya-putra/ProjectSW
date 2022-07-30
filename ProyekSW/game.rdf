@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:gm="http://www.gamesemweb/ns#">
+    
+    <rdf:Description rdf:about="https://www.cyberpunk.net/">
+        <gm:name>Cyberpunk 2077</gm:name>
+        <gm:developer>CD PROJEKT RED</gm:developer>
+        <gm:genre>Action</gm:genre>
+        <gm:genre>RPG</gm:genre>
+        <gm:rating>8,7</gm:rating>
+        <gm:synopsis>Cyberpunk 2077 is a 2020 action role-playing video game developed and published by CD Projekt. The story takes place in Night City, an open world set in the Cyberpunk universe. Players assume the first-person perspective of a customisable mercenary known as V, who can acquire skills in hacking and machinery with options for melee and ranged combat.</gm:synopsis>
+        <gm:link>https://www.cyberpunk.net/id#</gm:link>
+        <gm:banner>assets/img/cyberpunk.png</gm:banner>
+        <gm:img1>assets/img/cyberpunk/1.jpg</gm:img1>
+        <gm:img2>assets/img/cyberpunk/2.jpg</gm:img2>
+        <gm:img3>assets/img/cyberpunk/3.jpg</gm:img3>
+        <gm:gmply>Cyberpunk 2077 is played in a first-person perspective as V,[5] a mercenary whose voice,[6] face, hairstyles, body type and modifications, background, and clothing are customisable. Stat categories—Body, Intelligence, Reflexes, Technical, and Cool—are influenced by the character classes that players assume, which are NetRunner (hacking), Techie (machinery), and Solo (combat). V must consult a "ripperdoc" to upgrade and purchase cyberware implants; black markets offer military-grade abilities.[7] The rarity of any given equipment is shown by a coloured tier system.[8] V can take cover, aim, run, jump, double jump, and slide.[9][10] Melee strikes can be dealt with close-combat weapons.[11][12] There are three types of ranged weapons, all of which can be customised and modified—Power (standard), Tech (which penetrate walls and enemies), and Smart (with homing bullets).[13][14] Ranged weapons are equipped to ricochet bullets in a target's direction and slow them down in bullet time. Four types of damage can be inflicted and resisted—Physical, Thermal, EMP, and Chemical.[15][16][17] Weapon use increases accuracy and reloading speed, which are manifested in character animations.[18] Gunsmiths repair and upgrade weapons.[11] The game can be completed without killing anyone,[19] with non-lethal options for weapons and cyberware.</gm:gmply>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.skyrim.net/">
+        <gm:name>Skyrim V : Elder Scroll</gm:name>
+        <gm:developer>Bethesda Game Studios</gm:developer>
+        <gm:genre>Action</gm:genre>
+        <gm:genre>RPG</gm:genre>
+        <gm:rating>9,4</gm:rating>
+        <gm:synopsis>The game's main story revolves around the player's character, the Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world. The game is set 200 years after the events of Oblivion and takes place in Skyrim, the northernmost province of Tamriel. Over the course of the game, the player completes quests and develops the character by improving skills. </gm:synopsis>
+        <gm:link>https://www.skyrim.net/id#</gm:link>
+        <gm:banner>assets/img/skyrim.png</gm:banner>
+        <gm:img1>assets/img/skyrim/1.jpg</gm:img1>
+        <gm:img2>assets/img/skyrim/2.png</gm:img2>
+        <gm:img3>assets/img/skyrim/3.jpg</gm:img3>
+        <gm:gmply>The game's main story revolves around the player's character, the Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world. The game is set 200 years after the events of Oblivion and takes place in Skyrim, the northernmost province of Tamriel. Over the course of the game, the player completes quests and develops the character by improving skills. The game continues the open-world tradition of its predecessors by allowing the player to travel anywhere in the game world at any time, and to ignore or postpone the main storyline indefinitely.
+Skyrim was developed using the Creation Engine, rebuilt specifically for the game. The team opted for a unique and more diverse open world than Oblivion's Imperial Province of Cyrodiil, which game director and executive producer Todd Howard considered less interesting by comparison. The game was released to critical acclaim, with reviewers particularly mentioning the character advancement and setting, and is considered to be one of the greatest video games of all time. Nonetheless it received some criticism, predominantly for its melee combat and numerous technical issues present at launch. The game shipped over seven million copies to retailers within the first week of its release, and over 30 million copies on all platforms as of November 2016, making it one of the best selling video games in history.
+        </gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.GT.com/">
+        <gm:name>Grand Tourismo</gm:name>
+        <gm:developer>Sony Interactive Entertainment</gm:developer>
+        <gm:genre>Sports</gm:genre>
+        <gm:genre>Simulation</gm:genre>
+        <gm:rating>7,1</gm:rating>
+        <gm:synopsis>Gran Turismo (GT) is a series of racing simulation video games developed by Polyphony Digital. Developed for PlayStation systems, Gran Turismo games are intended to emulate the appearance and performance of a large selection of vehicles, most of which are licensed reproductions of real-world automobiles. Since the franchise's debut in 1997, over 80 million units have been sold worldwide.</gm:synopsis>
+        <gm:link>https://www.gran-turismo.com/us/</gm:link>
+        <gm:banner>assets/img/turismo.png</gm:banner>
+        <gm:img1>assets/img/gt/1.jpg</gm:img1>
+        <gm:img2>assets/img/gt/2.jpg</gm:img2>
+        <gm:img3>assets/img/gt/3.jpg</gm:img3>
+        <gm:gmply>Similar to its predecessors, Gran Turismo Sport is a racing game and includes two game modes: "Sport Mode" and "Arcade Mode". Online racing is also featured in the game. The game has been described as different from the "Prologue" titles seen in the past in the series and features more content. Unlike Gran Turismo 5 and 6, the game does not feature a dynamic weather system or day-night cycle, but players still have the option to modify the race's time of day before entering the race.[6] It includes 327 cars and 82 configurations in 32 locations to race on as of December 2019.[7]
+For the first time in the series, the game features Porsche vehicles included in the game after Electronic Arts' licensing rights to the Porsche brand had expired (previous Gran Turismo games only included Ruf as a substitute).</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://genshin.mihoyo.com/en/">
+        <gm:name>Genshin Impact</gm:name>
+        <gm:developer>miHoYo</gm:developer>
+        <gm:genre>Action</gm:genre>
+        <gm:genre>RPG</gm:genre>
+        <gm:genre>Open-World</gm:genre>
+        <gm:rating>8,1</gm:rating>
+        <gm:synopsis>Main story of this game is twins are battling an unnamed god. Players choose whether they wish between the twin, and the other twin gets captured while the player's twin is sealed away. The player's twin reawakens after some time has passed, and joins a fairy-like creature named Paimon on a journey to find the lost twin.</gm:synopsis>
+        <gm:link>https://genshin.mihoyo.com/en#</gm:link>
+        <gm:banner>assets/img/genshin.png</gm:banner>
+        <gm:img1>assets/img/genshin/1.jpg</gm:img1>
+        <gm:img2>assets/img/genshin/2.webp</gm:img2>
+        <gm:img3>assets/img/genshin/3.jpg</gm:img3>
+        <gm:gmply>Genshin Impact is an open world action role-playing game that allows the player to control one of four interchangeable characters in a party. Switching between characters can be done quickly and during combat to the player to use several different combinations of skills and attacks.[11] Characters may have their strengths enhanced in various ways, such as increasing a character's level and improving artifacts and the weapons that the character equips.[12] In addition to exploration, the player can attempt various challenges for rewards. Scattered across Teyvat are highly powerful challenges that reward highly valuable resources, but claiming them uses up a currency called resin, which slowly regenerates over time.[13] Completing these challenges grants the player progress towards increasing their Adventure Rank, which in turn unlocks new quests, challenges, and raises the World Level.[14] The World Level is a measure of how strong the enemies within the world are and the rarity of rewards that defeating them gives. The player can control their character and perform actions such as running, climbing, swimming, and gliding which are limited by stamina.[16][11] Some characters possess abilities that can alter the environment, such as freezing water to create a path that can aid the player in traversing terrain.[</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.rockstargames.com/V/">
+        <gm:name>Grand Theft Auto V</gm:name>
+        <gm:developer>Rockstar Games</gm:developer>
+        <gm:genre>Action</gm:genre>
+        <gm:genre>Open-World</gm:genre>
+        <gm:rating>9,5</gm:rating>
+        <gm:synopsis>The story set within the fictional state of San Andreas, based on Southern California, the single-player story follows three protagonists—retired bank robber Michael De Santa, street gangster Franklin Clinton, and drug dealer and arms smuggler Trevor Philips—and their efforts to commit heists while under pressure from a corrupt government agency and powerful criminals.</gm:synopsis>
+        <gm:link>https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&amp;options=&amp;locale=en_us</gm:link>
+        <gm:banner>assets/img/gta.png</gm:banner>
+        <gm:img1>assets/img/gta/1.jpg</gm:img1>
+        <gm:img2>assets/img/gta/2.jpg</gm:img2>
+        <gm:img3>assets/img/gta/3.jpg</gm:img3>
+        <gm:gmply>Grand Theft Auto V is an action-adventure game[2] played from either a third-person[3] or first-person perspective.[4][b] Players complete missions—linear scenarios with set objectives—to progress through the story.[5] Outside of the missions, players may freely roam the open world. Composed of the San Andreas open countryside area, including the fictional Blaine County, and the fictional city of Los Santos, the world is much larger in area than earlier entries in the series.[6][c] It may be fully explored after the game's beginning without restriction, although story progress unlocks more gameplay content.[8]
+The player character crouched behind a vehicle while in combat. The head-up display elements are visible on-screen.
+Players can take cover behind objects during firefights to avoid taking damage from enemies.
+Players use melee attacks, firearms and explosives to fight enemies,[d] and may run, jump, swim or use vehicles to navigate the world.[e] To accommodate the map's size, the game introduces vehicle types absent in its predecessor Grand Theft Auto IV, such as fixed-wing aircraft.[11] In combat, auto-aim and a cover system may be used as assistance against enemies.[12] Should players take damage, their health meter will gradually regenerate to its halfway point.[f] Players respawn at hospitals when their health depletes.[10] If players commit crimes, law enforcement agencies may respond as indicated by a "wanted" meter in the head-up display (HUD).[13] Stars displayed on the meter indicate the current wanted level (for example, at the maximum five-star level, police helicopters and SWAT teams swarm to lethally dispatch players).[14][g] Law enforcement officers will search for players who leave the wanted vicinity. The meter enters a cool-down mode and eventually recedes when players are hidden from the officers' line of sight that displays on the mini-map.</gm:gmply>
+    </rdf:Description>
+        
+    <rdf:Description rdf:about="https://borderlands.com/en-US/">
+        <gm:name>Borderlands 3</gm:name>
+        <gm:developer>Gearbox Software</gm:developer>
+        <gm:genre>Action</gm:genre>
+        <gm:genre>First-Person Shooting</gm:genre>
+        <gm:rating>9,1</gm:rating>
+        <gm:synopsis>Borderlands 3 is a first-person loot shooter. Players, either playing alone or in parties of up to four people, make a character from one of the four classes available, and take on various missions given out by non-playable characters (NPCs) and at bounty boards to gain experience, in-game monetary rewards, and reward items. Players can also gain these items by defeating enemies throughout the game.</gm:synopsis>
+        <gm:link>https://borderlands.com/en-US/</gm:link>
+        <gm:banner>assets/img/borderlands.png</gm:banner>
+        <gm:img1>assets/img/borderland/1.jpg</gm:img1>
+        <gm:img2>assets/img/borderland/2.jpg</gm:img2>
+        <gm:img3>assets/img/borderland/3.webp</gm:img3>
+        <gm:gmply>Borderlands 3 is a first-person loot shooter. Players, either playing alone or in parties of up to four people, make a character from one of the four classes available, and take on various missions given out by non-playable characters (NPCs) and at bounty boards to gain experience, in-game monetary rewards, and reward items. Players can also gain these items by defeating enemies throughout the game. As the player gains level, they gain skill points to allocate across a skill tree. The game introduces four new playable characters: Amara, a "Siren" who summons ethereal fists; Moze, a young "Gunner" who rides the mecha Iron Bear; Zane, an "Operative" with a variety of gadgets; and FL4K, a robot "Beastmaster" who summons creatures to aid in fights. Unlike previous Borderlands games where each character had only one unique skill that operates on a cooldown, each character in the new game can unlock three unique skills, though only one (or in Zane's case, two) can be equipped at a time, greatly expanding the number of potential character builds a player can make.\n\nBorderlands 3 shares the same core loop with previous games around taking on missions, defeating enemies, and obtaining loot from fallen foes or special chests, most often in the form of procedurally generated weapons to vary in damage, range, ammo capacity, and other special perks, giving the game "over one billion guns". Perks can include elemental effects, such as damaging the foes with fire, ice, or electricity, or may possess alternative firing behavior, among other visual differences. In Borderlands 2, some weapons had "slag" elemental, which coated the enemy for a short period and made them extremely vulnerable to a subsequent elemental attack from a different element.
+        </gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.DOOM.com/">
+        <gm:name>DOOM</gm:name>
+        <gm:developer>Bethesda Studios</gm:developer>
+        <gm:genre>Action</gm:genre>
+        <gm:genre>First-Person Shooting</gm:genre>
+        <gm:rating>8,5</gm:rating>
+        <gm:synopsis>Doom takes place during the year 2149[c] in a research facility on Mars owned by the Union Aerospace Corporation, run by Dr. Samuel Hayden, a UAC scientist whose mind now inhabits an android body after having lost his original to brain cancer. Researchers at the UAC facility have attempted to draw energy from Hell, an alternative dimension inhabited by demons.</gm:synopsis>
+        <gm:link>https://bethesda.net/en/game/doom</gm:link>
+        <gm:banner>assets/img/doom.png</gm:banner>
+        <gm:img1>assets/img/doom/1.jpg</gm:img1>
+        <gm:img2>assets/img/doom/2.jpg</gm:img2>
+        <gm:img3>assets/img/doom/3.jpg</gm:img3>
+        <gm:gmply>Doom takes place during the year 2149[c] in a research facility on Mars owned by the Union Aerospace Corporation, run by Dr. Samuel Hayden, a UAC scientist whose mind now inhabits an android body after having lost his original to brain cancer. Researchers at the UAC facility have attempted to draw energy from Hell, an alternative dimension inhabited by demons, in order to solve an energy crisis on Earth using the Argent Tower, which siphons energy and allows travel to and from Hell.[29] To supplement their work, Hayden organizes several expeditions into Hell, bringing back captive demons and artifacts for study. Among them is a sarcophagus containing the Doom Slayer (along with his Praetor Suit), who the demons imprisoned after his earlier rampage through Hell.\n\nThe facility is overrun by demons after one of Hayden's researchers, Olivia Pierce, makes a pact with them and uses the Tower to open a portal to Hell.[29] In desperation, Hayden releases the Doom Slayer from his sarcophagus to repel the demonic invasion and close the portal. The Doom Slayer recovers his Praetor Suit and fights his way through the overrun facility, where he realigns a comms satellite dish to get a lay of the land, all guided by the AI VEGA. After clearing out the facility core and preventing a meltdown, he pursues Pierce as he destroys the energy induction filters to Hayden's objections. He pursues Pierce up the tower, where she uses an Argent accumulator to open an explosive rift into Hell, destroying the Tower, and where the Slayer is sent back.Fighting his way to a teleporter, the Doom Slayer returns to Mars and makes his way to a tram leading to Hayden. Hayden informs the Slayer of the Helix Stone, an artifact used to study and harness Hell's energy. Entering the Lazarus labs, he observes the Helix Stone, and he learns of the Well, where the portal is powered, and of the magical key-like blade, the Crucible. He makes another excursion into Hell after battling and defeating a contained Cyberdemon and activating its accumulator, and fights through a labyrinthine gauntlet to recover the Crucible from a trio of Hell Guards.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://xcom.com/">
+        <gm:name>XCOM 2: War of The Choosen</gm:name>
+        <gm:developer>2K Games</gm:developer>
+        <gm:genre>Strategy</gm:genre>
+        <gm:genre>Turn-based</gm:genre>
+        <gm:genre>Tactics</gm:genre>
+        <gm:rating>9,3</gm:rating>
+        <gm:synopsis>XCOM (originally called X-COM) is a science fiction video game franchise featuring an elite international organization tasked with countering alien invasions of Earth. The series began with the strategy video game UFO: Enemy Unknown created by Julian Gollop's Mythos Games and MicroProse in 1994. The X-COM series, in particular its original entry, achieved a sizable cult.</gm:synopsis>
+        <gm:link>https://xcom.com/</gm:link>
+        <gm:banner>assets/img/xcom.png</gm:banner>
+        <gm:img1>assets/img/xcom/1.jpg</gm:img1>
+        <gm:img2>assets/img/xcom/2.jpg</gm:img2>
+        <gm:img3>assets/img/xcom/3.jpg</gm:img3>
+        <gm:gmply>In XCOM 2, the player-character is the commander of the XCOM military organization that is now reduced to a resistance force opposing the ongoing alien occupation of Earth. Played from a top-down perspective, the game uses turn-based tactics in which players issue commands to a squad of human soldiers to eliminate the aliens in a map and dependent on missions, complete secondary objectives. Many of the missions are timed, requiring players to complete it within several turns. Maps are procedurally generated to create a wide variety of levels. Every map features different terrain and buildings in each playthrough. The game offers four difficulty settings: Rookie, Veteran, Commander and Legend.\n\nAfter players complete the campaign, they can start a new game with the \"Ironman\" mode enabled. In this mode, the player's save file is overwritten whenever the player performs an action, making it impossible for players to import an earlier save after making a poor decision. Players can create campaigns, cosmetics and enemy types, which can be shared through Steam Workshop. The game features a one-on-one multiplayer mode in which players received a fixed number of points to build a squad composed of both ADVENT and XCOM forces, and attempt to eliminate the opponent's squad on a battlefield. At the start of most missions, the player's squad is concealed and will not be detected by enemies unless they attack or move to a nearby position. This allows players to ambush enemies, which provides combat bonuses.[10] Fog of war hides the aliens and their actions from view until the player's soldiers are in range and have line of sight on them.[11] Squad members can take cover behind objects which reduces the chance of being hit. Enemies will attempt to flank and exposed soldiers will sustain heavy injuries from attacks due to the lack of any defense. Each squad member can perform a limited number of actions before the enemy takes their turn and players can choose to end their turn early. Soldiers can be instructed to move, attack or both depending on their available action points. The game will inform the players of the possibility of landing a successful shot and the amount of health the enemy will lose.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.konami.com/wepes/2019/us/en-us/">
+        <gm:name>PES 2017</gm:name>
+        <gm:developer>Konami</gm:developer>
+        <gm:genre>Sports</gm:genre>
+        <gm:rating>8</gm:rating>
+        <gm:synopsis>Pro Evolution Soccer 2017 (officially abbreviated as PES 2017, also known in some Asian countries as Winning Eleven 2017) is a sports video game developed by PES Productions and published by Konami for Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Android and iOS. The game is the 16th installment in the Pro Evolution Soccer series.</gm:synopsis>
+        <gm:link>https://www.konami.com/wepes/2019/us/en-us/</gm:link>
+        <gm:banner>assets/img/pes.png</gm:banner>
+        <gm:img1>assets/img/pes/1.jpg</gm:img1>
+        <gm:img2>assets/img/pes/2.webp</gm:img2>
+        <gm:img3>assets/img/pes/3.webp</gm:img3>
+        <gm:gmply>The Pro Evolution Soccer series strives to emulate real soccer. As such, gameplay simulates a typical game of association football, with the player controlling either an entire team or a selected player; objectives coincide with the rules of association football. Various game modes have been featured in the series, allowing for gameplay variety, including the Kick Off, Online and Offline modes. In addition to these modes, there is an editing one where the player can fix (to some extent) the series' greatest problem, poor licensing.\n\nThachu Level League\nThe Master League mode, gives the user control of a team of user's selection. Originally, the players were all generic-fictional players, however this later changed giving the user the option to change the settings and choose to play with default players. These players, such as Brazilian forward Castolo, have become cult figures to many people playing the Master League. The aim is to use these players and gain points by winning matches, cups and leagues. Using acquired points to purchase real players to join the team. Ultimately, one should end up with a team of skilled players.\From PES 3 (Winning Eleven 7), players' growth and decline curves were added, where a player's statistics may improve or decline, depending on training and age.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://2k.com/en-US/game/nba-2k18-standard-edition/">
+        <gm:name>NBA 2K18</gm:name>
+        <gm:developer>2K Sports</gm:developer>
+        <gm:genre>Sports</gm:genre>
+        <gm:rating>8,7</gm:rating>
+        <gm:synopsis>NBA 2K18 is a basketball simulation video game developed by Visual Concepts and published by 2K Sports. It is the 19th installment in the NBA 2K franchise, the successor to NBA 2K17, and the predecessor to NBA 2K19. It was released on September 19, 2017 for Microsoft Windows, Xbox One, PlayStation 4, Xbox 360, iOS, Android, PlayStation 3, and Nintendo Switch.</gm:synopsis>
+        <gm:link>https://2k.com/en-US/game/nba-2k18-standard-edition/</gm:link>
+        <gm:banner>assets/img/nba.png</gm:banner>
+        <gm:img1>assets/img/nba/1.jpg</gm:img1>
+        <gm:img2>assets/img/nba/2.png</gm:img2>
+        <gm:img3>assets/img/nba/3.jpg</gm:img3>
+        <gm:gmply>The player mainly plays NBA games with real-life or customized players and teams; games follow the rules and objectives of NBA games. Several game modes are present and many settings can be customized. Up to six expansion teams can be created and used in both MyLeague and MyGM Modes, with the possibility of a 36-team league, and any team can be relocated and rebranded. If you're creating a team you can download jerseys and teams that people from the NBA community has made.\n\nAlong with the current season's teams and players, previous games in the series have featured NBA teams from past eras, such as the 1995–96 Chicago Bulls and the 1985–86 Boston Celtics. NBA 2K20 adds six more such teams, such as the 2015-16 Cleveland Cavaliers and the 2013-14 San Antonio Spurs. As with other games in the series, the in-studio pregame and halftime shows are based on the real-life NBA on TNT presentations, featuring Ernie Johnson, Kenny Smith, and Shaquille O'Neal, with the latter two analysts also appearing as players on the 1993-94 Houston Rockets and 1994-95 Orlando Magic/2000-01 Los Angeles Lakers/2005-06 Miami Heat, respectively. During games, the announcers are Kevin Harlan, Greg Anthony, Chris Webber, Steve Smith and Clark Kellogg, with Doris Burke, and David Aldridge as the sideline reporters. Charles Barkley has not been added to the halftime show. For the first time ever in the NBA 2K series, all twelve teams from the WNBA are included; however, they can be only used in Play Now (one-game exhibition) and single-season modes. It includes Candace Parker as well as other WNBA All-Stars. In WNBA MyLeague you can only do trades like your creating a roster for 2k. You can't create a roster for the WNBA only the NBA.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://wwe.2k.com/">
+        <gm:name>WWE 2K20</gm:name>
+        <gm:developer>2K Sports</gm:developer>
+        <gm:genre>Sports</gm:genre>
+        <gm:rating>4,5</gm:rating>
+        <gm:synopsis>WWE 2K20 is a professional wrestling video game developed by Visual Concepts and published by 2K Sports. It was released worldwide on October 22, 2019 for Microsoft Windows, PlayStation 4, and Xbox One. The sequel to WWE 2K19, 2K20 is the first game in the series to not be developed by Yuke's, which developed every entry in the series since its inception in 2000</gm:synopsis>
+        <gm:link>https://wwe.2k.com/</gm:link>
+        <gm:banner>assets/img/wwe.png</gm:banner>
+        <gm:img1>assets/img/wwe/1.webp</gm:img1>
+        <gm:img2>assets/img/wwe/2.jpg</gm:img2>
+        <gm:img3>assets/img/wwe/3.jpg</gm:img3>
+        <gm:gmply>WWE 2K20 is a professional wrestling video game developed by Visual Concepts and published by 2K Sports. It was released worldwide on October 22, 2019 for Microsoft Windows, PlayStation 4, and Xbox One.[1] It is the twenty-first game in the WWE game series and the seventh under the WWE 2K banner. The sequel to WWE 2K19, 2K20 is the first game in the series to not be developed by Yuke's, which developed every entry in the series since its inception in 2000. They were replaced by Visual Concepts, who had previously worked with Yuke's as co-developers.
+WWE 2K20 received negative reviews, with critics noting a regression in quality compared to its predecessor. The game has since gained notoriety in both the wrestling and gaming community for its bugs at launch and technical issues. The game's successor, WWE 2K Battlegrounds, was released in September 2020 to mixed reviews.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.half-life.com/en/halflife2">
+        <gm:name>Half Life 2</gm:name>
+        <gm:developer>Valve Software</gm:developer>
+        <gm:genre>First-Person Shooting</gm:genre>
+        <gm:genre>RPG</gm:genre>
+        <gm:rating>9,6</gm:rating>
+        <gm:synopsis>After previously causing portals to open between worlds, Gordon released a race of aliens from enslavement on Xen and was placed into stasis by a mysterious figure known only as the G-Man. Meanwhile a race of aliens known as the combine enslaved Earth and is devouring its resources. Freeman awakens on a train heading for a massive city known only as City 17.</gm:synopsis>
+        <gm:link>https://www.half-life.com/en/halflife2</gm:link>
+        <gm:banner>assets/img/halflife2.png</gm:banner>
+        <gm:img1>assets/img/halflife/1.jpg</gm:img1>
+        <gm:img2>assets/img/halflife/2.jpg</gm:img2>
+        <gm:img3>assets/img/halflife/3.jpg</gm:img3>
+        <gm:gmply>Like the original Half-Life (1998), Half-Life 2 is a single-player first-person shooter in which players control Gordon Freeman. It has similar mechanics to Half-Life, including health-and-weapon systems and periodic physics puzzles, except with the newer Source engine and improved graphics. The player also starts without items, slowly building up their arsenal over the course of the game. Despite the game's mainly linear nature, much effort was put into making exploration rewarding and interesting; many optional areas can be missed or avoided. A diverse set of enemies is present, which usually require being approached with different tactics: some coordinate in groups to out-maneuver or out-position the player; others, such as the Manhack, fly directly at the player through small openings and tight corridors. Others use predictable but powerful attacks, while others hide before swiftly attacking the player. Gordon can kill most enemies with his weapons, or make use of indirect means, exploiting environmental hazards such as explosive pressurized canisters, gas fires or improvised traps. For some portions of the game, Gordon can be joined by up to four armed Resistance soldiers or medics and can send his team further from him or call them back.Many of the game's new features utilize its detailed physics simulation. Two sections of the game involve driving vehicles. Instead of button-oriented puzzles from Half-Life, environmental puzzles are also introduced with makeshift mechanical systems, revolving around the player's new ability to pick up, move, and place objects.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.callofduty.com/warzone">
+        <gm:name>Call of Duty: Warzone</gm:name>
+        <gm:developer>Infinity Ward</gm:developer>
+        <gm:genre>First-Person Shooting</gm:genre>
+        <gm:genre>Multi-Player</gm:genre>
+        <gm:rating>7,9</gm:rating>
+        <gm:synopsis>A new combat experience where up to 150 players take the role of a veteran Tier 1 Operator and drop in to the dense and sprawling world of Verdansk. Warzone is packed with non-stop action that’s free-to-play and free-for-everyone. In Battle Royale, fight to be the last squad standing while escaping the deadly gas in the swiftly closing circle with up to 150 players.</gm:synopsis>
+        <gm:link>https://www.callofduty.com/warzone</gm:link>
+        <gm:banner>assets/img/cod.png</gm:banner>
+        <gm:img1>assets/img/cod/1.jpg</gm:img1>
+        <gm:img2>assets/img/cod/2.jpg</gm:img2>
+        <gm:img3>assets/img/cod/3.jpg</gm:img3>
+        <gm:gmply> Warzone features two primary game modes: Battle Royale and Plunder.[4] It is the second main battle royale installment in the Call of Duty franchise, following the \"Blackout\" mode of Call of Duty: Black Ops 4 (2018). Warzone differs from Black Ops 4 by reducing reliance on equipable gadgets and instead encouraging the accumulation of a new in-game currency called Cash.[4] Warzone supports up to 150 players in a single match, which exceeds the typical size of 100 players seen in other battle royale titles.[5] Some limited-time modes support 200 players. The Battle Royale mode is similar to other titles in the genre where players compete in a continuously shrinking map to be the last player remaining. Players parachute onto a large game map, where they encounter other players. As the game progresses and players are eliminated, the playable area shrinks forcing the remaining players into tighter spaces. In Warzone, the non-playable areas become contaminated with a green gas that depletes health and eventually kills the player if they do not return to the safe playable area.[4] Unlike other titles, Warzone introduces a new respawn mechanic, a greater emphasis on vehicles, and a new in-game currency mechanic. Parachuting is unrestricted, with the player being allowed to open and cut their parachute an unlimited number of times while in air. At launch, the game supported trios (squads of up to three players) with an option to disable squad filling. Infinity Ward has mentioned testing the number of squad members in future updates. Four-player squads and Solo BR modes were added in following updates, while Duos was added near the end of Modern Warfare Season 3.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.halowaypoint.com/en-us/games/halo-3">
+        <gm:name>Halo 3</gm:name>
+        <gm:developer>Bungie Software</gm:developer>
+        <gm:genre>First-Person Shooting</gm:genre>
+        <gm:genre>RPG</gm:genre>
+        <gm:rating>9,8</gm:rating>
+        <gm:synopsis>Halo 3 is the third game in the Halo Trilogy and provides the thrilling conclusion to the events begun in "Halo: Combat Evolved." Halo 3 picks up where "Halo 2" left off. The Master Chief is returning to Earth to finish the fight. The Covenant occupation of Earth has uncovered a massive and ancient object beneath the African sands - an object who's secrets have yet to be revealed.</gm:synopsis>
+        <gm:link>https://www.halowaypoint.com/en-us/games/halo-3</gm:link>
+        <gm:banner>assets/img/halo.png</gm:banner>
+        <gm:img1>assets/img/halo/1.jpg</gm:img1>
+        <gm:img2>assets/img/halo/2.webp</gm:img2>
+        <gm:img3>assets/img/halo/3.jpg</gm:img3>
+        <gm:gmply>Halo 3 is a shooter game where players primarily experience gameplay from a first-person perspective. Much of the gameplay takes place on foot, but also includes segments focused on vehicular combat. The balance of weapons and objects in the game was adjusted to better adhere to the \"Golden Triangle of Halo\": these are weapons, grenades, and melee attacks, which are available to a player in most situations. Players may dual-wield some weapons, forgoing the use of grenades and melee attacks in favor of the combined firepower of two weapons. Many weapons available in previous installments of the series return with minor cosmetic and power alterations. Unlike previous installments, the player's secondary weapon is visible on their player model, holstered or slung across the player's back. Halo 3 introduces support weapons, which are cumbersome two-handed weapons that slow the player but offer greatly increased firepower in return.[2] In addition to weapons, the game contains a new class of gear called equipment;[3] these items have various effects, ranging from defensive screens to shield regeneration and flares. Only one piece of equipment can be carried at a time.[4] The game's vehicular component has been expanded with new drivable and AI-only vehicles.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://playvalorant.com/">
+        <gm:name>Valorant</gm:name>
+        <gm:developer>Riot Games</gm:developer>
+        <gm:genre>First-Person Shooting</gm:genre>
+        <gm:genre>Multi-Player</gm:genre>
+        <gm:rating>8</gm:rating>
+        <gm:synopsis> A 5v5 character-based tactical shooter. Imagine this: tactical shooter meets hypernatural powers. Everyone’s got guns and a unique set of abilities, so how do you beat someone with the speed of wind? Use your own moves to outplay them and beat them to the shot. VALORANT is a game for bold strategists who dare to make the unexpected play, because if it wins, it works.</gm:synopsis>
+        <gm:link>https://playvalorant.com/</gm:link>
+        <gm:banner>assets/img/valorant.png</gm:banner>
+        <gm:img1>assets/img/valorant/1.jpg</gm:img1>
+        <gm:img2>assets/img/valorant/2.jpg</gm:img2>
+        <gm:img3>assets/img/valorant/3.jpg</gm:img3>
+        <gm:gmply> Valorant is a team-based tactical shooter and first-person shooter set in the near-future.[1][2][3][4] Players play as one of a set of agents, characters designed based on several countries and cultures around the world.[4] In the main game mode, players are assigned to either the attacking or defending team with each team having five players on it. Agents have unique abilities, each requiring charges, as well as a unique ultimate ability which requires charging through kills, deaths, or spike actions. Every player starts each round with a \"classic\" pistol and one or more \"signature ability\" charge[2]. Other weapons and ability charges can be purchased using an in game economic system which awards money based on the outcome of the previous round, any kills the player is responsible for, and any actions taken with the spike. The game has an assortment of weapons including secondary guns like sidearms and primary guns like submachine guns, shotguns, machine guns, assault rifles and sniper rifles.[5][6] There are automatic and semi-automatic weapons that have a shooting pattern which has to be controlled by the player in order to be able to shoot accurately.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://en.bandainamcoent.eu/dark-souls/dark-souls">
+        <gm:name>Dark Soul 3</gm:name>
+        <gm:developer>From Software</gm:developer>
+        <gm:genre>Action</gm:genre>
+        <gm:genre>RPG</gm:genre>
+        <gm:rating>2,9</gm:rating>
+        <gm:synopsis>Developed by Japanese developer FromSoftware, DARK SOULS III is the latest chapter in the DARK SOULS series with its trademark sword and sorcery combat and rewarding action RPG gameplay. Players travel across a wide variety of locations in an interconnected world of unrelenting challenge and deep RPG gameplay as they search for a way to survive the coming apocalypse.</gm:synopsis>
+        <gm:link>https://en.bandainamcoent.eu/dark-souls/dark-souls</gm:link>
+        <gm:banner>assets/img/darksoul.png</gm:banner>
+        <gm:img1>assets/img/darksoul/1.jpg</gm:img1>
+        <gm:img2>assets/img/darksoul/2.webp</gm:img2>
+        <gm:img3>assets/img/darksoul/3.jpg</gm:img3>
+        <gm:gmply>Dark Souls III is an action role-playing game played in a third-person perspective, similar to previous games in the series. According to lead director and series creator Hidetaka Miyazaki, the game's gameplay design followed \"closely from Dark Souls II\".[1] Players are equipped with a variety of weapons to fight against enemies, such as bows, throwable projectiles, and swords. Shields can act as secondary weapons but they are mainly used to deflect enemies' attacks and protect the player from suffering damage.[2] Each weapon has two basic types of attack, one being a standard attack, and the other being slightly more powerful that can be charged up, similar to FromSoftware's previous game, Bloodborne. In addition, attacks can be evaded through dodge-rolling.[3] Bonfires, which serve as checkpoints, return from previous installments.[4] Ashes, according to Miyazaki, play an important role in the game.[5] Magic is featured in the game, with a returning magic system from Demon's Souls, now known as \"focus points\" (FP). When performing spells, the player's focus points are consumed. There are two separate types of Estus Flasks in the game, which can be allotted to fit a players' particular play style. One of them refills hit points like previous games in the series, while another refills focus points, a feature new to the game.[6] Combat and movements were made faster and more fluid than Dark Souls II;[7][8] as several player movements are performed more rapidly, allowing more damage to be done in a shorter period of time.[9][3] Throughout the game, players encounter different types of enemies, each with different behaviors. Some of them change their combat pattern during battles.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://motogpvideogame.com/">
+        <gm:name>MotoGP 2018</gm:name>
+        <gm:developer>Milestone S.r.l</gm:developer>
+        <gm:genre>Sports</gm:genre>
+        <gm:genre>Simulation</gm:genre>
+        <gm:rating>6,6</gm:rating>
+        <gm:synopsis>MotoGP 18 is a motorbike racing game where you don't wear the hat of a professional racer fighting champion racers. The game features 19 official tracks, which include Thailand's Buriram International Circuit. Thanks to lots of new features and some excellent graphics, this game is very immersive and feels like you are riding it.</gm:synopsis>
+        <gm:link>https://motogpvideogame.com/</gm:link>
+        <gm:banner>assets/img/motogp.png</gm:banner>
+        <gm:img1>assets/img/motogp/1.webp</gm:img1>
+        <gm:img2>assets/img/motogp/2.jpg</gm:img2>
+        <gm:img3>assets/img/motogp/3.jpg</gm:img3>
+        <gm:gmply>This game is a step change for the series and not just a small evolution with a fresh lick of paint. You’ll notice this as soon as you hit the track; the bikes move around more, they crackle and pop, spit flames on downshifts and feel distinctly different from each other. The bike sound is a big improvement as well, with richer tones and more accurate results. Crucially, for a game that encompasses several racing categories, each type of bike rides with their own character too. A Moto3 feels light on its toes, a full-fat Ducati is a thuggish brute, whereas a Suzuki is more nimble through the corners. In previous MotoGP titles, each bike has largely felt like much of a muchness, but not this year. Moving away from your own riding skills, your rivals also provide a much sterner test. Developer Milestone’s system for AI may be buzzword-bingo – the ‘Neural AI’ system features ‘machine learning’ for ‘smarter’ opponents – but it does at least match up to some of that hype. The results will depend on the difficulty that you choose, as I think you’ll only really notice a difference when playing on the harder settings and you’re jockeying for position in the mid-pack.The effect is most apparent on the first lap, as the field is far feistier, with some trying to dive down on the inside, some on the outside and the odd one out-braking themselves and running a little wide. Sometimes they can be a little over-aggressive, clipping your rear wheel at the pivotal corner-entry phase, but the effect is more naturalistic.</gm:gmply>
+    </rdf:Description>
+    
+    
+    <rdf:Description rdf:about="https://blog.dota2.com/">
+        <gm:name>Dota 2</gm:name>
+        <gm:developer>Milestone S.r.l</gm:developer>
+        <gm:genre>Strategy</gm:genre>
+        <gm:genre>Action</gm:genre>
+        <gm:rating>8,5</gm:rating>
+        <gm:synopsis>Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players.</gm:synopsis>
+        <gm:link>https://blog.dota2.com/</gm:link>
+        <gm:banner>assets/img/dota.png</gm:banner>
+        <gm:img1>assets/img/dota2/1.jpg</gm:img1>
+        <gm:img2>assets/img/dota2/2.jpg</gm:img2>
+        <gm:img3>assets/img/dota2/3.jpg</gm:img3>
+        <gm:gmply> Dota 2 is a multiplayer online battle arena (MOBA) video game in which two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the \"Ancient\", whilst defending their own.[1][2] As in Defense of the Ancients, the game is controlled using standard real-time strategy controls, and is presented on a single map in a three-dimensional isometric perspective.[1][3] Ten players each control one of the game's 120 playable characters, known as \"heroes\", with each having their own design, strengths, and weaknesses.[1][2][4] Heroes are divided into two primary roles, known as the core and support.[5][6]Cores, which are also called carries, begin each match as weak and vulnerable, but are able to become more powerful later in the game, thus becoming able to \"carry\" their team to victory.[5][7] Supports generally lack abilities that deal heavy damage, instead having ones with more functionality and utility that provide assistance for their cores, such as providing healing and other buffs.[5][6][8] Players select their hero during a pre-game drafting phase, where they can also discuss potential strategies and hero matchups with their teammates.[2][5][6] Heroes are removed from the drafting pool and become unavailable for all other players once one is selected, and can not be changed once the drafting phase is over. All heroes have a basic attack in addition to powerful abilities, which are the primary method of fighting. Each hero has at least four of them, all of which are unique.[3][8] Heroes begin each game with an experience level of one, only having access to one of their abilities, but are able to level up and become more powerful during the course of the game, up to a maximum level of 30.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.ageofempires.com/games/aoeiide/">
+        <gm:name>Age of Empires 2: The Age of King</gm:name>
+        <gm:developer>Ensemble Studios</gm:developer>
+        <gm:genre>Strategy</gm:genre>
+        <gm:rating>9,2</gm:rating>
+        <gm:synopsis>Age of Empires II: The Age of Kings is the sequel to the award-winning, best-selling real-time strategy game "Age of Empires." Age of Empires II spans a thousand years, from the fall of Rome through the Middle Ages in which players lead one of 13 civilizations into greatness. The game keeps the epic scope of Age of Empires' game play while evolving the combat and economic features. </gm:synopsis>
+        <gm:link>https://www.ageofempires.com/games/aoeiide/</gm:link>
+        <gm:banner>assets/img/aog.png</gm:banner>
+        <gm:img1>assets/img/aoe/1.jpg</gm:img1>
+        <gm:img2>assets/img/aoe/2.jpg</gm:img2>
+        <gm:img3>assets/img/aoe/3.jpg</gm:img3>
+        <gm:gmply>Age of Empires II is a real-time strategy game that focuses on building towns, gathering resources, and creating armies to defeat opponents. Players conquer rival towns and empires as they advance one of 13 civilizations through four \"Ages\": the Dark Age, the Feudal Age, the Castle Age (being the High Middle Ages), and the Imperial Age, reminiscent of the Renaissance—a 1000-year timeframe.[4] Advancing to a new Age unlocks new units, structures, and technologies, but players must first build certain buildings from their current age and then pay a sum of resources (typically food and gold). Civilian units, called \"villagers\", are used to gather resources; they are either male or female—gender does not affect their abilities. Resources can be used to train units, construct buildings, and research technologies, among other things; for example, players can research better armour for infantry units. The game offers four types of resources: food, wood, gold, and stone. Food is obtained by hunting animals, gathering berries, harvesting livestock, farming, and shore fishing and fishing from boats. Wood is gathered by chopping down trees. Gold is obtained from either gold mines, trade or collecting relics in a monastery, and stone is collected from stone mines. Villagers require checkpoints, typically depository buildings (town center, mining camp, mill, and lumber yard), where they can store gathered resources.</gm:gmply>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="http://www.innersloth.com/gameAmongUs.php">
+        <gm:name>Among Us</gm:name>
+        <gm:developer>Innersloth</gm:developer>
+        <gm:genre>Strategy</gm:genre>
+        <gm:genre>Casual</gm:genre>
+        <gm:rating>8</gm:rating>
+        <gm:synopsis>In the game Among Us, players have to find out who is the Impostor. Meanwhile, Crewmates have to complete tasks if they want to win easier. In this way, Among Us combines cooperation and makes the players have to work individually to achieve common goals.We will be overcome with suspicion, who is the friend who actually an Impostor.</gm:synopsis>
+        <gm:link>http://www.innersloth.com/gameAmongUs.php</gm:link>
+        <gm:banner>assets/img/among.png</gm:banner>
+        <gm:img1>assets/img/among/1.jpg</gm:img1>
+        <gm:img2>assets/img/among/2.webp</gm:img2>
+        <gm:img3>assets/img/among/3.jpg</gm:img3>
+        <gm:gmply> Among Us is a multiplayer game for four to ten players. One to three players (depending on what the host selected) are chosen to be the impostor(s) each round. A game can take place on one of three maps: a spaceship called \"The Skeld\", a headquarters building called \"MIRA HQ\", or a planet base called \"Polus\". At the start of the game, Crewmates are given \"tasks\" to complete around the map in the form of minigames, consisting of maintenance work on vital systems such as electrical rewiring and engine refueling. Impostors are given a fake list of tasks to blend in with Crewmates, although they are unable to actually complete any task. Impostors can sabotage vital systems, covertly travel through air vents, and work with other Impostors to kill Crewmates. If a player dies, they become a ghost. Ghosts can pass through walls, are invisible to everyone except other ghosts, and are limited in their capacity to interact with the world; however, dead Crewmates must still complete their tasks. If an Impostor dies from being voted off, they can still sabotage to help the other Impostor(s).[16][17] All players except ghosts[18] have a limited cone of vision, only allowing them to see other players within a certain unblocked distance around them.\n        " , "Among Us is a multiplayer game for four to ten players. One to three players (depending on what the host selected) are chosen to be the impostor(s) each round. A game can take place on one of three maps: a spaceship called \"The Skeld\", a headquarters building called \"MIRA HQ\", or a planet base called \"Polus\". At the start of the game, Crewmates are given \"tasks\" to complete around the map in the form of minigames, consisting of maintenance work on vital systems such as electrical rewiring and engine refueling. Impostors are given a fake list of tasks to blend in with Crewmates, although they are unable to actually complete any task. Impostors can sabotage vital systems, covertly travel through air vents, and work with other Impostors to kill Crewmates. If a player dies, they become a ghost.</gm:gmply>
+    </rdf:Description>
+    
+</rdf:RDF>
